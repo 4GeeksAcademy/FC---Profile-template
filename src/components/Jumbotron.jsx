@@ -5,6 +5,7 @@ export function Jumbotron({ onClick }) {
     <Row>
       <Col>
         <h1>Traffic Light</h1>
+        
       </Col>
     </Row>
   );
